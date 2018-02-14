@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+}
+
+#check h2, form{
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
