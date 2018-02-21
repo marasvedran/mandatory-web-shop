@@ -1,0 +1,37 @@
+body{
+    padding: 20px;
+    background-color: lightblue;
+}
+
+#check h2, form{
+    display: flex;
+   flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type=reset]{
+    margin: 10px;
+}
+
+input[type=submit]{
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    font-size: medium;
+    color: blue;
+}
+
+#auto{
+    margin:20px;
+}
+
+#tutti{
+    margin:20px;
+}
+
+#frutti{
+    margin:20px;
+}
